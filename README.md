@@ -27,5 +27,3 @@ Ce tutoriel interactif vous guide à travers les bases de l’utilisation de 1Pa
 - Toute personne souhaitant améliorer la gestion de ses mots de passe
 
 ---
-
-**Créé avec [Rise 360 par Articulate](https://articulate.com/360/rise).**
