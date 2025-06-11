@@ -17,7 +17,7 @@ Ce tutoriel interactif vous guide à travers les bases de l’utilisation de 1Pa
 
 ## Comment accéder
 
-1. Rendez-vous sur le [https://nticlmem.github.io/1password_tutorial_lmem/](Tutoriel).
+1. Rendez-vous sur le [tutoriel](https://nticlmem.github.io/1password_tutorial_lmem/).
 2. Suivez les modules à votre rythme.
 
 ## À qui s’adresse ce tutoriel ?
